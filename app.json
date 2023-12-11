@@ -4,10 +4,10 @@
     "slug": "NoteApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icontodo.png",
+    "icon": "./src/assets/icons/icontodo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./src/assets/icons/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./src/assets/icons/icontodo.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.alfirasanta.NoteApp"
